@@ -6,4 +6,8 @@ Resolução dos exercícios de SQL das aulas de Bases de Dados da faculdade
 
 Autoria: Profa. Elaine Parros M. de Sousa; Estagiário PAE: André Moreira Souza; Monitor: Afonso	Matheus Sousa Lima
 
-*Nota: os enunciados dos exercícios ainda não podem ser disponibilizados. Ao resolver algumas questões de permissão e autoria, planejo subir eles aqui também.*
+## Enunciado dos exercícios
+
+* [Prática 1](https://github.com/ribe3iro/sql-practicing/files/10088330/pratica1.pdf)
+* [Prática 2](https://github.com/ribe3iro/sql-practicing/files/10088331/pratica2.pdf)
+* [Prática 3](https://github.com/ribe3iro/sql-practicing/files/10088332/pratica3.pdf)
